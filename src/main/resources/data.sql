@@ -1,0 +1,1 @@
+insert into employee (id, name, surname, email) values (1, 'Erdal', 'Guzel', 'erdal@abc.com');
